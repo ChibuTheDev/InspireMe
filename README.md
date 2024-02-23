@@ -27,11 +27,10 @@ Users should be able to:
 - [React](https://react.dev/) - JS library
 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 Nothing new really, used this project to  recap on state variables and fetching data from an api
-
 
 
 
@@ -41,6 +40,4 @@ Nothing new really, used this project to  recap on state variables and fetching 
 - Frontend Mentor - [@ChibuTheDev](https://www.frontendmentor.io/profile/ChibuTheDev)
 - Twitter - [@chibucodes](https://twitter.com/chibucodes)
 
-## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
