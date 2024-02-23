@@ -12,7 +12,7 @@ function App() {
   fetch('https://api.adviceslip.com/advice')
   .then(res=>{
    return res.json()
-  })
+  })  
  .then(data=>{
    setAdvice(data.slip.advice)
    setId(data.slip.id)
